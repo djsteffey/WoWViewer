@@ -1,0 +1,367 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "Microsoft.DotNet.Analyzers.Compatibility/0.2.12-alpha": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.DotNet.Analyzers.Compatibility.targets": {}
+        }
+      },
+      "MimeKitLite/2.4.1": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "System.Core",
+          "System.Security"
+        ],
+        "compile": {
+          "lib/net48/MimeKitLite.dll": {}
+        },
+        "runtime": {
+          "lib/net48/MimeKitLite.dll": {}
+        }
+      },
+      "System.Reflection.Emit.Lightweight/4.7.0": {
+        "type": "package",
+        "compile": {
+          "ref/net45/_._": {}
+        },
+        "runtime": {
+          "lib/net45/_._": {}
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.7.0": {
+        "type": "package",
+        "compile": {
+          "ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win": {
+      "Microsoft.DotNet.Analyzers.Compatibility/0.2.12-alpha": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.DotNet.Analyzers.Compatibility.targets": {}
+        }
+      },
+      "MimeKitLite/2.4.1": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "System.Core",
+          "System.Security"
+        ],
+        "compile": {
+          "lib/net48/MimeKitLite.dll": {}
+        },
+        "runtime": {
+          "lib/net48/MimeKitLite.dll": {}
+        }
+      },
+      "System.Reflection.Emit.Lightweight/4.7.0": {
+        "type": "package",
+        "compile": {
+          "ref/net45/_._": {}
+        },
+        "runtime": {
+          "lib/net45/_._": {}
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.7.0": {
+        "type": "package",
+        "compile": {
+          "ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x64": {
+      "Microsoft.DotNet.Analyzers.Compatibility/0.2.12-alpha": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.DotNet.Analyzers.Compatibility.targets": {}
+        }
+      },
+      "MimeKitLite/2.4.1": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "System.Core",
+          "System.Security"
+        ],
+        "compile": {
+          "lib/net48/MimeKitLite.dll": {}
+        },
+        "runtime": {
+          "lib/net48/MimeKitLite.dll": {}
+        }
+      },
+      "System.Reflection.Emit.Lightweight/4.7.0": {
+        "type": "package",
+        "compile": {
+          "ref/net45/_._": {}
+        },
+        "runtime": {
+          "lib/net45/_._": {}
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.7.0": {
+        "type": "package",
+        "compile": {
+          "ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x86": {
+      "Microsoft.DotNet.Analyzers.Compatibility/0.2.12-alpha": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.DotNet.Analyzers.Compatibility.targets": {}
+        }
+      },
+      "MimeKitLite/2.4.1": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "System.Core",
+          "System.Security"
+        ],
+        "compile": {
+          "lib/net48/MimeKitLite.dll": {}
+        },
+        "runtime": {
+          "lib/net48/MimeKitLite.dll": {}
+        }
+      },
+      "System.Reflection.Emit.Lightweight/4.7.0": {
+        "type": "package",
+        "compile": {
+          "ref/net45/_._": {}
+        },
+        "runtime": {
+          "lib/net45/_._": {}
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.7.0": {
+        "type": "package",
+        "compile": {
+          "ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.DotNet.Analyzers.Compatibility/0.2.12-alpha": {
+      "sha512": "uu3yAa6hQZJoJZfBwXSvh+bN03KO06sWNZXwodxz7J1wva1g1+O4TnWJxX4dmsP6tLDTZtKy8IHiPLOOZIwt9w==",
+      "type": "package",
+      "path": "microsoft.dotnet.analyzers.compatibility/0.2.12-alpha",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/cs/Microsoft.DotNet.Analyzers.Compatibility.dll",
+        "analyzers/dotnet/cs/Microsoft.DotNet.Csv.dll",
+        "build/Microsoft.DotNet.Analyzers.Compatibility.targets",
+        "microsoft.dotnet.analyzers.compatibility.0.2.12-alpha.nupkg.sha512",
+        "microsoft.dotnet.analyzers.compatibility.nuspec"
+      ]
+    },
+    "MimeKitLite/2.4.1": {
+      "sha512": "VfvqNx8FoiILJr5uiJ2FsDQ2JgNRmeTQgtm0JSQ5A0ACMzd30hWqU6iJLKz4Xv/9SrBqZYa/AVoHwyAtL92kTg==",
+      "type": "package",
+      "path": "mimekitlite/2.4.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icons/mimekit-50.png",
+        "lib/monoandroid/MimeKitLite.dll",
+        "lib/monoandroid/MimeKitLite.xml",
+        "lib/net45/MimeKitLite.dll",
+        "lib/net45/MimeKitLite.xml",
+        "lib/net46/MimeKitLite.dll",
+        "lib/net46/MimeKitLite.xml",
+        "lib/net47/MimeKitLite.dll",
+        "lib/net47/MimeKitLite.xml",
+        "lib/net48/MimeKitLite.dll",
+        "lib/net48/MimeKitLite.xml",
+        "lib/netstandard1.3/MimeKitLite.dll",
+        "lib/netstandard1.3/MimeKitLite.xml",
+        "lib/netstandard1.6/MimeKitLite.dll",
+        "lib/netstandard1.6/MimeKitLite.xml",
+        "lib/netstandard2.0/MimeKitLite.dll",
+        "lib/netstandard2.0/MimeKitLite.xml",
+        "lib/xamarinios/MimeKitLite.dll",
+        "lib/xamarinios/MimeKitLite.xml",
+        "mimekitlite.2.4.1.nupkg.sha512",
+        "mimekitlite.nuspec"
+      ]
+    },
+    "System.Reflection.Emit.Lightweight/4.7.0": {
+      "sha512": "a4OLB4IITxAXJeV74MDx49Oq2+PsF6Sml54XAFv+2RyWwtDBcabzoxiiJRhdhx+gaohLh4hEGCLQyBozXoQPqA==",
+      "type": "package",
+      "path": "system.reflection.emit.lightweight/4.7.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net45/_._",
+        "lib/netcore50/System.Reflection.Emit.Lightweight.dll",
+        "lib/netcoreapp2.0/_._",
+        "lib/netstandard1.0/System.Reflection.Emit.Lightweight.dll",
+        "lib/netstandard1.0/System.Reflection.Emit.Lightweight.xml",
+        "lib/netstandard1.3/System.Reflection.Emit.Lightweight.dll",
+        "lib/netstandard2.0/System.Reflection.Emit.Lightweight.dll",
+        "lib/netstandard2.0/System.Reflection.Emit.Lightweight.xml",
+        "lib/netstandard2.1/_._",
+        "lib/portable-net45+wp8/_._",
+        "lib/wp80/_._",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net45/_._",
+        "ref/netcoreapp2.0/_._",
+        "ref/netstandard1.0/System.Reflection.Emit.Lightweight.dll",
+        "ref/netstandard1.0/System.Reflection.Emit.Lightweight.xml",
+        "ref/netstandard1.0/de/System.Reflection.Emit.Lightweight.xml",
+        "ref/netstandard1.0/es/System.Reflection.Emit.Lightweight.xml",
+        "ref/netstandard1.0/fr/System.Reflection.Emit.Lightweight.xml",
+        "ref/netstandard1.0/it/System.Reflection.Emit.Lightweight.xml",
+        "ref/netstandard1.0/ja/System.Reflection.Emit.Lightweight.xml",
+        "ref/netstandard1.0/ko/System.Reflection.Emit.Lightweight.xml",
+        "ref/netstandard1.0/ru/System.Reflection.Emit.Lightweight.xml",
+        "ref/netstandard1.0/zh-hans/System.Reflection.Emit.Lightweight.xml",
+        "ref/netstandard1.0/zh-hant/System.Reflection.Emit.Lightweight.xml",
+        "ref/netstandard2.0/System.Reflection.Emit.Lightweight.dll",
+        "ref/netstandard2.0/System.Reflection.Emit.Lightweight.xml",
+        "ref/netstandard2.1/_._",
+        "ref/portable-net45+wp8/_._",
+        "ref/wp80/_._",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "runtimes/aot/lib/netcore50/System.Reflection.Emit.Lightweight.dll",
+        "runtimes/aot/lib/netcore50/System.Reflection.Emit.Lightweight.xml",
+        "system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
+        "system.reflection.emit.lightweight.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.7.0": {
+      "sha512": "IpU1lcHz8/09yDr9N+Juc7SCgNUz+RohkCQI+KsWKR67XxpFr8Z6c8t1iENCXZuRuNCc4HBwme/MDHNVCwyAKg==",
+      "type": "package",
+      "path": "system.runtime.compilerservices.unsafe/4.7.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "ref/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "ref/netstandard1.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "system.runtime.compilerservices.unsafe.4.7.0.nupkg.sha512",
+        "system.runtime.compilerservices.unsafe.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "Microsoft.DotNet.Analyzers.Compatibility >= 0.2.12-alpha",
+      "MimeKitLite >= 2.4.1",
+      "System.Reflection.Emit.Lightweight >= 4.7.0",
+      "System.Runtime.CompilerServices.Unsafe >= 4.7.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\djsteffey\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\djsteffey\\Desktop\\programming\\WoWViewer\\WoWViewer\\WoWViewer.csproj",
+      "projectName": "WoWViewer",
+      "projectPath": "C:\\Users\\djsteffey\\Desktop\\programming\\WoWViewer\\WoWViewer\\WoWViewer.csproj",
+      "packagesPath": "C:\\Users\\djsteffey\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\djsteffey\\Desktop\\programming\\WoWViewer\\WoWViewer\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\djsteffey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net48": {
+        "dependencies": {
+          "Microsoft.DotNet.Analyzers.Compatibility": {
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[0.2.12-alpha, )"
+          },
+          "MimeKitLite": {
+            "target": "Package",
+            "version": "[2.4.1, )"
+          },
+          "System.Reflection.Emit.Lightweight": {
+            "target": "Package",
+            "version": "[4.7.0, )"
+          },
+          "System.Runtime.CompilerServices.Unsafe": {
+            "target": "Package",
+            "version": "[4.7.0, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

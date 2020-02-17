@@ -1,0 +1,14 @@
+C:\Users\djsteffey\Desktop\programming\WoWViewer\WoWViewer\bin\Debug\WoWViewer.exe.config
+C:\Users\djsteffey\Desktop\programming\WoWViewer\WoWViewer\bin\Debug\WoWViewer.exe
+C:\Users\djsteffey\Desktop\programming\WoWViewer\WoWViewer\bin\Debug\WoWViewer.pdb
+C:\Users\djsteffey\Desktop\programming\WoWViewer\WoWViewer\obj\Debug\WoWViewer.Properties.Resources.resources
+C:\Users\djsteffey\Desktop\programming\WoWViewer\WoWViewer\obj\Debug\WoWViewer.csproj.GenerateResource.cache
+C:\Users\djsteffey\Desktop\programming\WoWViewer\WoWViewer\obj\Debug\WoWViewer.csproj.CoreCompileInputs.cache
+C:\Users\djsteffey\Desktop\programming\WoWViewer\WoWViewer\obj\Debug\WoWViewer.exe
+C:\Users\djsteffey\Desktop\programming\WoWViewer\WoWViewer\obj\Debug\WoWViewer.pdb
+C:\Users\djsteffey\Desktop\programming\WoWViewer\WoWViewer\obj\Debug\WoWViewer.csproj.CopyComplete
+C:\Users\djsteffey\Desktop\programming\WoWViewer\WoWViewer\obj\Debug\WoWViewer.csprojAssemblyReference.cache
+C:\Users\djsteffey\Desktop\programming\WoWViewer\WoWViewer\obj\Debug\WoWViewer.Form1.resources
+C:\Users\djsteffey\Desktop\programming\WoWViewer\WoWViewer\bin\Debug\MimeKitLite.dll
+C:\Users\djsteffey\Desktop\programming\WoWViewer\WoWViewer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\djsteffey\Desktop\programming\WoWViewer\WoWViewer\obj\Debug\PlatformCompat.Analyzers.settings
